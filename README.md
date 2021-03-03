@@ -1,4 +1,5 @@
-<img align="center" src='https://xesque.rocketseat.dev/platform/1587379765556-attachment.svg'>
+
+ ![git-hub](https://user-images.githubusercontent.com/74741895/109846671-3042f880-7c2d-11eb-813e-3c6a0c957d57.png)
 
 # GitHub Explorer
 
