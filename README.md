@@ -1,4 +1,4 @@
-<img src='https://xesque.rocketseat.dev/platform/1587379765556-attachment.svg'>
+<img align="center" src='https://xesque.rocketseat.dev/platform/1587379765556-attachment.svg'>
 
 # GitHub Explorer
 
