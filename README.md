@@ -76,7 +76,7 @@ $ yarn start
 
 ---
 ## 🛠 Techs
-the followings tools were used on the project:
+The followings tools were used on the project:
 
 #### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
 
@@ -100,7 +100,8 @@ the followings tools were used on the project:
  <sub><b>Vinicius Silva 🚀</b></sub> 
  <br />
     
- [![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-dev-silva/)](https://www.linkedin.com/in/vinicius-dev-silva/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-dev-silva/)](https://www.linkedin.com/in/vinicius-dev-silva/)
+ [![Gmail Badge](https://img.shields.io/badge/-viniciusoficialc20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusoficialc20@gmail.com)](mailto:viniciusoficialc20@gmail.com)
 
 ---
 ## 📝 License
