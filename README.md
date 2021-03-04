@@ -15,7 +15,7 @@
  <a href="#-About-the-project">About</a> •
  <a href="#-Features">Features</a> •
  <a href="#-layout">Layout</a> • 
- <a href="#-Requisites">How execute</a> • 
+ <a href="#-Requisites">Requisites</a> • 
  <a href="#-Techs">Techs</a> • 
  <a href="#-author">Author</a> • 
  <a href="#user-content--licença">Licence</a>
@@ -49,6 +49,7 @@ The Bootcamp of Rocketseat is an online experience with lots of practical conten
 
 
 ---
+
 ## Requisites
 
 Before of begin, you go need have  install in your machine the following tools:
