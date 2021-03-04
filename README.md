@@ -1,6 +1,11 @@
-
-  
- 
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/viniciusfal/GitHub-explorerRepo?color=%2304D361">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/viniciusfal/GitHub-explorerRepo">
+  <a href="https://github.com/viniciusfal/GitHub-explorerRepo/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/viniciusfal/GitHub-explorerRepo">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+ </p>
 </p>
 <h1 align="center">
     <img width="450px" alt="GitHub-Explorer" title="#GitHub-Explorer" src="https://xesque.rocketseat.dev/platform/1587379765556-attachment.svg" />
@@ -45,7 +50,8 @@ The Bootcamp of Rocketseat is an online experience with lots of practical conten
 
 ## 🎨 Layout
 
-![GitHub-ExporerRepo](https://user-images.githubusercontent.com/74741895/109909091-416b2400-7c84-11eb-951d-abe24b839278.gif)
+![git](https://user-images.githubusercontent.com/74741895/109980444-ae130c80-7cde-11eb-97ad-7d4f6c206a7f.gif)
+
 
 
 ---
