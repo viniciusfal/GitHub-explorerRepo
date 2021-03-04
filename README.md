@@ -67,9 +67,9 @@ and one editor. For example: [VSCode](https://code.visualstudio.com/)
 $ git clone https://github.com/viniciusfal/GitHub-explorerRepo
 
 # Install dependencies
- $ yarn
+$ yarn
  
- # Execute app
+# Execute app
 $ yarn start
 
 ```
@@ -92,6 +92,7 @@ the followings tools were used on the project:
 ---
 
 ## 🦸 Author
+---
 
 <a href="https://github.com/viniciusfal">
  <img style="border-radius: 50%;" src=https://avatars.githubusercontent.com/u/74741895?s=96&v=4" width="100px;" alt=""/>
@@ -102,3 +103,11 @@ the followings tools were used on the project:
  [![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-dev-silva/)](https://www.linkedin.com/in/vinicius-dev-silva/) 
 
 ---
+## 📝 License
+
+This is project from the license [MIT](./LICENSE).
+
+Done With ❤️ por Vinicius Silva 👋🏽 [Contact me / Entre em contato](https://www.linkedin.com/in/vinicius-dev-silva/)
+
+---
+
