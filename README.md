@@ -27,7 +27,7 @@
 ♻️ GitHub-explorer Repo - It's A project that does search of the repositories using api of Git-Hub, saving them with the localStorage.This app also the issues history show.
 
 
-Project developed in the **Go-Stack-Bootcamp** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/).
+Project developed in the **Go-Stack-Bootcamp** by [Rocketseat](https://blog.rocketseat.com.br/).
 The Bootcamp of Rocketseat is an online experience with lots of practical content, challenges and hacks to make developers better.
 
 ---
