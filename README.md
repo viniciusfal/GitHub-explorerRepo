@@ -18,7 +18,7 @@
  <a href="#-Run">Requisites</a> • 
  <a href="#-Techs">Techs</a> • 
  <a href="#-author">Author</a> • 
- <a href="#user-content--licença">Licence</a>
+ <a href="#user-content--license">License</a>
 </p>
 
 
