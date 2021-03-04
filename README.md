@@ -106,7 +106,7 @@ The followings tools were used on the project:
 ---
 ## 📝 License
 
-This is project from the license [MIT](./LICENSE).
+This is one project with license [MIT](./LICENSE).
 
 Done With ❤️ por Vinicius Silva 👋🏽 [Contact me / Entre em contato](https://www.linkedin.com/in/vinicius-dev-silva/)
 
