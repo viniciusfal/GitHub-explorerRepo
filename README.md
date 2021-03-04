@@ -13,13 +13,12 @@
 
 <p align="center">
  <a href="#-About-the-project">About</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-Features">Features</a> •
  <a href="#-layout">Layout</a> • 
- <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-contribuidores">Contribuidores</a> • 
- <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
+ <a href="#-Requisites">How execute</a> • 
+ <a href="#-Techs">Techs</a> • 
+ <a href="#-author">Author</a> • 
+ <a href="#user-content--licença">Licence</a>
 </p>
 
 
