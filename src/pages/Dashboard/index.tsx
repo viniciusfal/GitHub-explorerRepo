@@ -12,6 +12,7 @@ interface Repository {
         avatar_url: string;
     };
 }
+
 const Dashboard: React.FC = () => {
     const [newRepo, setNewRepo] = useState('');
     const [newError, setNewError] = useState('');
@@ -32,9 +33,9 @@ const Dashboard: React.FC = () => {
         );
     }, [repositories]);
 
-    async function handdleAddRepository(
+    const handleAddRepository = async (
         event: FormEvent<HTMLFormElement>,
-    ): Promise<void> {
+    ): Promise<void> => {
         event.preventDefault();
         if (!newRepo) {
             setNewError('Digite o autor/nome do repositório');
@@ -43,16 +44,15 @@ const Dashboard: React.FC = () => {
 
         try {
             const response = await api.get<Repository>(`repos/${newRepo}`);
-
             const repository = response.data;
 
-            setRepositories([...repositories, repository]);
+            setRepositories(prev => [...prev, repository]); // Usando o valor anterior
             setNewRepo('');
             setNewError('');
         } catch (err) {
             setNewError('Erro na busca do repositório');
         }
-    }
+    };
 
     return (
         <>
@@ -61,7 +61,7 @@ const Dashboard: React.FC = () => {
                 alt="GitHub Explorer.Logo"
             />
             <Title>Explore repositórios no Github</Title>
-            <Form hasError={!!newError} onSubmit={handdleAddRepository}>
+            <Form hasError={!!newError} onSubmit={handleAddRepository}>
                 <input
                     placeholder="Digite aqui"
                     value={newRepo}
